@@ -1,8 +1,5 @@
 <script>
-
 </script>
 <template>
-    <div>
-        Landing page
-    </div>
+  <div class="text-3xl">Landing page</div>
 </template>
